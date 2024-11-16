@@ -57,3 +57,4 @@
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://luas10c.github.io/)
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luas10c/)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/155117)
+[![Laboratório de Mutantes](https://img.shields.io/badge/discord-5562f0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/raGQT6e8fB)
