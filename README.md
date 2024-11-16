@@ -1,7 +1,3 @@
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luas10c&theme=github_dark)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luas10c&theme=github_dark)
-![trophy](https://github-profile-trophy.vercel.app/?username=luas10c&theme=darkhub&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
