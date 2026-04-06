@@ -88,22 +88,6 @@
 
 ---
 
-## Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/luas10c" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/lucianoalvsdm" target="_blank">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="twitter" />
-  </a>
-  <a href="http://luas10c.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>Always building, always refining.</i>
 </p>
