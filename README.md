@@ -1,17 +1,36 @@
-<h2 align="left">Hey 👋 What's up?</h2>
+<h1 align="center">Luciano Alves</h1>
 
-###
+<p align="center">
+  <strong>Software Engineer</strong> from Brazil<br/>
+  Building modern interfaces, scalable backends, and polished developer experiences.
+</p>
 
-<h4 align="left">My name is Luciano Alves, at Software Engineer since 2014, below you can get to know me a little better.</h4>
+<p align="center">
+  <a href="http://luas10c.github.io/" target="_blank">Website</a>
+  ·
+  <a href="https://www.linkedin.com/in/luas10c" target="_blank">LinkedIn</a>
+  ·
+  <a href="https://twitter.com/lucianoalvsdm" target="_blank">X / Twitter</a>
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+since+2014;React%2C+Node.js%2C+TypeScript+and+SQL;Building+clean%2C+fast+and+modern+products" alt="Typing SVG" />
+</p>
 
-<h3 align="left">I work with</h3>
+---
 
-###
+## About me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+* Software Engineer since **2014**.
+* Based in **Brazil**.
+* Focused on **frontend architecture**, **backend services**, **DX**, and **modern product interfaces**.
+* I enjoy building with attention to **performance**, **design quality**, and **maintainable code**.
+
+---
+
+## Tech stack
+
+<p align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -44,48 +63,57 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
+</p>
 
-###
+---
 
-<p align="left"></p>
+## What I like to build
 
-###
+* Modern desktop and web interfaces
+* Full-stack applications with clean architecture
+* Internal tools and developer-focused products
+* APIs, dashboards, and performance-oriented systems
+* Polished UI systems with scalable theming
 
-<p align="left"></p>
+---
 
-###
+## GitHub stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luas10c/luas10c/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luas10c/luas10c/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luas10c/luas10c/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luas10c&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luas10c&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=luas10c&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=luas10c.luas10c&"  />
-</div>
+---
 
-###
+## Contributions
 
-<div align="center">
-  <a href="luas10c" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+<p align="center">
+  <img src="https://github.com/luas10c/luas10c/blob/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+</p>
+
+---
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/luas10c" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/luas10c/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://twitter.com/lucianoalvsdm" target="_blank">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="twitter" />
   </a>
-  <a href="https://pt.stackoverflow.com/users/155117/luciano-alves" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <a href="http://luas10c.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
+<p align="center">
+  <i>Always building, always refining.</i>
+</p>
