@@ -90,14 +90,6 @@
 
 ---
 
-## Contributions
-
-<p align="center">
-  <img src="https://github.com/luas10c/luas10c/blob/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
-</p>
-
----
-
 ## Connect with me
 
 <p align="left">
